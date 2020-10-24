@@ -20,12 +20,11 @@ On this project I mainly took care of all the identification and creation of acc
 
 ## Demo
 
-<a href="https://leboncoin-copy.netlify.app">Try it !</a>
+<a href="https://echoes-demo.netlify.app/">**Try it!**</a>
 
 You can test the website, either by creating a new account or by using these credentials
 
-<br/>
-````
+```
 Admin : demo@mail.com
 Password : demo
 ```
