@@ -3,6 +3,8 @@
   src="https://github.com/mBrochot/Echoes-FrontEnd/blob/master/preview/echoes.png">
 </p>
 
+<br/>
+
 ## MVP for "Echoes" startup
 
 <br/>
@@ -12,6 +14,8 @@ For end-of-study project at the **[Le Reacteur](https://www.lereacteur.io/)** bo
 On this project I mainly took care of all the identification and creation of account (login, signup, lost password and sending email).
 
 The front is hosted on **Netlify** and the back is hosted on **Heroku**. The back office is managed with **Forestadmin**.
+
+<br/>
 <br/>
 
 <p align="center">
@@ -44,6 +48,11 @@ Postcode : 42424
 
 <br/>
 
+If you want to see the Backend, click <a href="https://github.com/mBrochot/Echoes-BackEnd">**here**</a>.
+
+<br/>
+<br/>
+
 ## Stack 💪
 
 Frontend :
@@ -70,7 +79,9 @@ Backend :
 - Nodemailer
 - Stripe
 - Uid2
-  <br/>
+
+<br/>
+<br/>
 
 ## Running the project 💻
 
@@ -96,13 +107,15 @@ yarn start
 ```
 
 <br/>
+<br/>
 
 ### Thanks 🙏
 
 I would like to thank the **Echoes** startup for trusting us.<br/>
 A big thank you to my team who worked very hard to complete this project.<br/>
-A special thanks to our lead developper <a href="https://github.com/jolisdegats?tab=repositories">**Jolidegats**</a> who allows me to use his back end.
+A special thanks to our lead developper <a href="https://github.com/jolisdegats?tab=repositories">**Jolidegats**</a> who allows me to use his backend which is hosted on Heroku.
 
+<br/>
 <br/>
 
 ### Contact 📡
