@@ -10,6 +10,8 @@
 For end-of-study project at the **[Le Reacteur](https://www.lereacteur.io/)** bootcamp, we created an MVP for the French startup **Echoes**. We were a 4-year-old team and this was the first time we worked as a team.
 
 On this project I mainly took care of all the identification and creation of account (login, signup, lost password and sending email).
+
+The front is hosted on **Netlify** and the back is hosted on **Heroku**. The back office is managed with **Forestadmin**.
 <br/>
 
 <p align="center">
@@ -18,7 +20,7 @@ On this project I mainly took care of all the identification and creation of acc
 </p>
 <br/>
 
-## Demo
+## Demo 🖥
 
 <a href="https://echoes-demo.netlify.app/">**Try it!**</a>
 
@@ -42,7 +44,7 @@ Postcode : 42424
 
 <br/>
 
-## Stack
+## Stack 💪
 
 Frontend :
 
@@ -70,7 +72,7 @@ Backend :
 - Uid2
   <br/>
 
-## Running the project
+## Running the project 💻
 
 Clone this repository :
 
@@ -95,7 +97,15 @@ yarn start
 
 <br/>
 
-### Contact
+### Thanks 🙏
+
+I would like to thank the **Echoes** startup for trusting us.<br/>
+A big thank you to my team who worked very hard to complete this project.<br/>
+A special thanks to our lead developper <a href="https://github.com/jolisdegats?tab=repositories">**Jolidegats**</a> who allows me to use his back end.
+
+<br/>
+
+### Contact 📡
 
 find me on my <br/>
 <a href="https://www.linkedin.com/in/mathieu-brochot/"><img img width="100"
