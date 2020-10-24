@@ -9,7 +9,7 @@
 
 <br/>
 
-For end-of-study project at the **[Le Reacteur](https://www.lereacteur.io/)** bootcamp, we created an MVP for the French startup **Echoes**. We were a 4-year-old team and this was the first time we worked as a team.
+For end-of-study project at the **[Le Reacteur](https://www.lereacteur.io/)** bootcamp, we created an MVP for the French startup **Echoes**. We were a team of 4 and this was the first time we worked as a team.
 
 On this project I mainly took care of all the identification and creation of account (login, signup, lost password and sending email).
 
